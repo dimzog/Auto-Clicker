@@ -1,0 +1,4 @@
+opencv-python==4.4.0.44
+numpy==1.19.2
+PyAutoGUI==0.9.51
+Pillow==7.2.0
